@@ -1,2 +1,2 @@
 # sweary_bot_python
-A bot that has your back. And swears. A lot.
+A bot that has your back. And swears. A lot. But in python!
